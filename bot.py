@@ -8,6 +8,7 @@ from aiogram.dispatcher import FSMContext
 from inout import *
 from calc import *
 from logi import m_logging
+from file_import import *
 from search import surename_search
 
 
